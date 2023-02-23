@@ -6,7 +6,7 @@
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
 
-![Wasaby Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/WasabyDev&theme=radical)
+![Wasaby Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=WasabyDev&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
