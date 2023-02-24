@@ -1,4 +1,4 @@
-<h1> Olá, eu sou GAY DE MAIS👋, eu quero um pênis gigantesco no meu cú caralho... que delícia, eu quero pau, eu quero pica, eu quero PICA PICA PICA! </h1>
+<h1> Olá, WasabyDev👋 </h1>
 
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wasabyxb_/)
