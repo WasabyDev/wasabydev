@@ -11,7 +11,7 @@
   <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=WasabyDev&theme=react&include_all_commits=true&count_private=true"/>
   <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasabyDev&layout=compact&langs_count=7&theme=react" />
 </div>
-  <h1> Tecnologias usadas e em estudo💻 </h1>
+  <h1> Tecnologias usadas e PARA EU ME TORNAR GAY</h1>
  
   ![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![Blog](https://img.shields.io/badge/CSS3-157 2B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,3 +19,4 @@
   ![Blog](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![Blog](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Blog](https://m.extra.globo.com/incoming/24051589-db4-abc/w480h720-PROP/canetaazul.jpgstyle=for-the-badge&logo=c-sharp&logoColor=white)
