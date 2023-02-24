@@ -1,17 +1,12 @@
+<h1> Olá, eu sou Wasaby Dev👋 </h1>
 
-### Olá, eu sou Wasaby Dev👋
-
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wasabyxb_/)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https;//linkedin)
-[![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-
-
-![Wasaby Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=WasabyDev&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WasabyDev&layout=compact)](https://github.com/WasabyDev)
-
-### Tecnologias usadas e em estudo:
+<div>
+  <a href="https://github.com/WasabyDev">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=WasabyDev&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasabyDev&layout=compact&langs_count=7&theme=react" />
+</div>
+  
+  
 
 ![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,5 +15,9 @@
 ![Blog](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Blog](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-
+    
+  <h1> Reders Sociais </h1>
+  
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wasabyxb_/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https;//linkedin)
+[![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
