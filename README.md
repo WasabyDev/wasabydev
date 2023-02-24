@@ -19,4 +19,3 @@
   ![Blog](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![Blog](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Blog](https://m.extra.globo.com/incoming/24051589-db4-abc/w480h720-PROP/canetaazul.jpgstyle=for-the-badge&logo=c-sharp&logoColor=white)
