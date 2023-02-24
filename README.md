@@ -1,4 +1,4 @@
-<h1> Olá, eu sou Wasaby Dev👋 </h1>
+<h1> Olá, eu sou GAY DE MAIS👋, eu quero um pênis gigantesco no meu cú caralho... que delícia, eu quero pau, eu quero pica, eu quero PICA PICA PICA! </h1>
 
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wasabyxb_/)
@@ -14,7 +14,7 @@
   <h1> Tecnologias usadas e em estudo💻 </h1>
  
   ![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Blog](https://img.shields.io/badge/CSS3-157 2B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Blog](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Blog](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
