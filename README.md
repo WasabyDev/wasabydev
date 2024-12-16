@@ -1,4 +1,4 @@
-<h1> Olá, sou WasabyDev 👋 </h1>
+<h1> Olá, sou Kauã Emanuel 👋 </h1>
 
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wasabyxb_/)
